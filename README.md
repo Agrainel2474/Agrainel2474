@@ -28,6 +28,7 @@
 
 - [📥 Checklist (Excel)](https://github.com/Agrainel2474/Agrainel2474/raw/main/Checklist.xlsx)
 
+---
 
 ## 🐞 Bug Reports
 
