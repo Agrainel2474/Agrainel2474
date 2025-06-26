@@ -23,7 +23,7 @@ Welcome to the my repository with a portfolio of independent practical work in t
 У цьому розділі представлено набір тест-кейсів, які були створені для перевірки сайта Lemon School
 
 ### 📄 Завантажити тест-кейси:
-- [📥 Test Cases (Excel)](https://github.com/Agrainel2474/Agrainel2474/raw/main/test-cases.xlsx)
+- [📥 Test Cases (Excel)](https://github.com/Agrainel2474/Agrainel2474/raw/main/test_cases.xlsx)
 
 ---
 
