@@ -32,6 +32,6 @@
 
 ## 🐞 Bug Reports
 
-В этом разделе собраны баг-репорты, найденные в процессе тестирования.
+Баг-репорти, що були складені в процесі тестування сайтів [https://www.staff.ua/](https://www.staff.ua/), [https://academybugs.com](https://academybugs.com), [https://dominos.ua/](https://dominos.ua/)
 
 - [📥 Bug Report (Excel)](https://github.com/Agrainel2474/Agrainel2474/raw/main/docs/bug-report.xlsx)
