@@ -7,6 +7,7 @@
 
 ## 📬 API Документація
 
+Тут зберігається колекція Postman з запитами до відкритого API сайту [https://reqres.in](https://reqres.in).
 [![Postman Collection](https://img.shields.io/badge/Postman-Collection-orange?logo=postman)](https://github.com/Agrainel2474/Agrainel2474/raw/main/my_api_collection.json)
 
 ---
