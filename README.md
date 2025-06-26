@@ -41,4 +41,4 @@
 
 Чеклисти для перевірки додатку Блокнот, кімнати чату 1х1, та мобільного додатку з преміум-функціями
 
-- [📥 Checklist (Excel)](https://github.com/Agrainel2474/Agrainel2474/raw/main/docs/Checklist.xlsx)
+- [📥 Checklist (Excel)](https://github.com/Agrainel2474/Agrainel2474/raw/main/Checklist.xlsx)
