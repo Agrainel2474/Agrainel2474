@@ -1,8 +1,8 @@
 ![Headers](https://github.com/Agrainel2474/Agrainel2474/blob/main/assets/QA.png)
 
-# Hi, my name is Tetiana!
+# Привіт! Мене звати Тетяна.
 
-Welcome to the my repository with a portfolio of independent practical work in the direction of manual testing.
+А це моє портфоліо з практичними роботами з мануального тестування.
 
 
 ## 📬 API Документація
