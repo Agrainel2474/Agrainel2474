@@ -1,4 +1,4 @@
-![Headers](https://github.com/Agrainel2474/Agrainel2474/blob/main/assets/QA.png)
+![Headers](https://github.com/Agrainel2474/Agrainel2474/blob/main/assets/Black and Beige Modern Handwriting Professional Business LinkedIn Banner.png)
 
 # Привіт! Мене звати Тетяна.
 
